@@ -1,0 +1,15 @@
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\bin\Debug\net6.0\pattern_24.exe
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\bin\Debug\net6.0\pattern_24.deps.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\bin\Debug\net6.0\pattern_24.runtimeconfig.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\bin\Debug\net6.0\pattern_24.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\bin\Debug\net6.0\pattern_24.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\pattern_24.csproj.AssemblyReference.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\pattern_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\pattern_24.AssemblyInfoInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\pattern_24.AssemblyInfo.cs
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\pattern_24.csproj.CoreCompileInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\pattern_24.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\refint\pattern_24.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\pattern_24.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\pattern_24.genruntimeconfig.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\pattern_24\obj\Debug\net6.0\ref\pattern_24.dll
