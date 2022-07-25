@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "wholenum_fraction_seperation/1.0.0": {
+        "runtime": {
+          "wholenum_fraction_seperation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wholenum_fraction_seperation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\bin\Debug\net6.0\wholenum_fraction_seperation.exe
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\bin\Debug\net6.0\wholenum_fraction_seperation.deps.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\bin\Debug\net6.0\wholenum_fraction_seperation.runtimeconfig.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\bin\Debug\net6.0\wholenum_fraction_seperation.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\bin\Debug\net6.0\wholenum_fraction_seperation.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\wholenum_fraction_seperation.csproj.AssemblyReference.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\wholenum_fraction_seperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\wholenum_fraction_seperation.AssemblyInfoInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\wholenum_fraction_seperation.AssemblyInfo.cs
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\wholenum_fraction_seperation.csproj.CoreCompileInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\wholenum_fraction_seperation.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\refint\wholenum_fraction_seperation.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\wholenum_fraction_seperation.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\wholenum_fraction_seperation.genruntimeconfig.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\wholenum_fraction_seperation\obj\Debug\net6.0\ref\wholenum_fraction_seperation.dll
