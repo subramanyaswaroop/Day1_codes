@@ -1,0 +1,15 @@
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\bin\Debug\net6.0\decimal_binary.exe
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\bin\Debug\net6.0\decimal_binary.deps.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\bin\Debug\net6.0\decimal_binary.runtimeconfig.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\bin\Debug\net6.0\decimal_binary.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\bin\Debug\net6.0\decimal_binary.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\decimal_binary.csproj.AssemblyReference.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\decimal_binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\decimal_binary.AssemblyInfoInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\decimal_binary.AssemblyInfo.cs
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\decimal_binary.csproj.CoreCompileInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\decimal_binary.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\refint\decimal_binary.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\decimal_binary.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\decimal_binary.genruntimeconfig.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\decimal_binary\obj\Debug\net6.0\ref\decimal_binary.dll
