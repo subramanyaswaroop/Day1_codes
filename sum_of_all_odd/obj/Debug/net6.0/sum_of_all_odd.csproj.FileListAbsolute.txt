@@ -1,0 +1,15 @@
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\bin\Debug\net6.0\sum_of_all_odd.exe
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\bin\Debug\net6.0\sum_of_all_odd.deps.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\bin\Debug\net6.0\sum_of_all_odd.runtimeconfig.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\bin\Debug\net6.0\sum_of_all_odd.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\bin\Debug\net6.0\sum_of_all_odd.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\sum_of_all_odd.csproj.AssemblyReference.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\sum_of_all_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\sum_of_all_odd.AssemblyInfoInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\sum_of_all_odd.AssemblyInfo.cs
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\sum_of_all_odd.csproj.CoreCompileInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\sum_of_all_odd.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\refint\sum_of_all_odd.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\sum_of_all_odd.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\sum_of_all_odd.genruntimeconfig.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\sum_of_all_odd\obj\Debug\net6.0\ref\sum_of_all_odd.dll

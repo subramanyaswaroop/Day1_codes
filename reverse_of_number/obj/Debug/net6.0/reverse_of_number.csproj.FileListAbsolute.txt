@@ -1,0 +1,15 @@
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\bin\Debug\net6.0\reverse_of_number.exe
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\bin\Debug\net6.0\reverse_of_number.deps.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\bin\Debug\net6.0\reverse_of_number.runtimeconfig.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\bin\Debug\net6.0\reverse_of_number.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\bin\Debug\net6.0\reverse_of_number.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\reverse_of_number.csproj.AssemblyReference.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\reverse_of_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\reverse_of_number.AssemblyInfoInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\reverse_of_number.AssemblyInfo.cs
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\reverse_of_number.csproj.CoreCompileInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\reverse_of_number.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\refint\reverse_of_number.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\reverse_of_number.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\reverse_of_number.genruntimeconfig.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\reverse_of_number\obj\Debug\net6.0\ref\reverse_of_number.dll
