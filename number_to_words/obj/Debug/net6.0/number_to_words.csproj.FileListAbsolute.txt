@@ -1,0 +1,15 @@
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\bin\Debug\net6.0\number_to_words.exe
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\bin\Debug\net6.0\number_to_words.deps.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\bin\Debug\net6.0\number_to_words.runtimeconfig.json
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\bin\Debug\net6.0\number_to_words.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\bin\Debug\net6.0\number_to_words.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\number_to_words.csproj.AssemblyReference.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\number_to_words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\number_to_words.AssemblyInfoInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\number_to_words.AssemblyInfo.cs
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\number_to_words.csproj.CoreCompileInputs.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\number_to_words.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\refint\number_to_words.dll
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\number_to_words.pdb
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\number_to_words.genruntimeconfig.cache
+C:\Users\sswaroop\source\repos\code1_simple_interst\number_to_words\obj\Debug\net6.0\ref\number_to_words.dll
